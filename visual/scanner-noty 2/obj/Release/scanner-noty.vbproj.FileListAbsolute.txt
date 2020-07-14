@@ -1,0 +1,10 @@
+C:\Users\osve\source\repos\scanner-noty 2\bin\Release\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty 2\bin\Release\scanner-noty.pdb
+C:\Users\osve\source\repos\scanner-noty 2\bin\Release\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner_noty.Form1.resources
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner_noty.Resources.resources
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner-noty.vbproj.GenerateResource.cache
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner-noty.vbproj.CoreCompileInputs.cache
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty 2\obj\Release\scanner-noty.pdb

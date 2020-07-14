@@ -1,0 +1,22 @@
+C:\Users\osve\source\repos\scanner-noty\bin\Debug\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty\bin\Debug\scanner-noty.pdb
+C:\Users\osve\source\repos\scanner-noty\bin\Debug\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner_noty.Form1.resources
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner_noty.Resources.resources
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.vbproj.GenerateResource.cache
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.vbproj.CoreCompileInputs.cache
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.pdb
+C:\Users\osve\source\repos\scanner-noty\obj\Debug\scanner-noty.vbprojAssemblyReference.cache
+C:\Users\osve\source\repos\scanner-noty 2\bin\Debug\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty 2\bin\Debug\scanner-noty.pdb
+C:\Users\osve\source\repos\scanner-noty 2\bin\Debug\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.vbprojAssemblyReference.cache
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner_noty.Form1.resources
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner_noty.Resources.resources
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.vbproj.GenerateResource.cache
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.vbproj.CoreCompileInputs.cache
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.exe
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.xml
+C:\Users\osve\source\repos\scanner-noty 2\obj\Debug\scanner-noty.pdb
